@@ -3,6 +3,6 @@ Entender as principais funcionalidades do GitHub
 
 1- Foram apresentado as funcionalidades básicas do Github
 2- Modificar a branch(main)
-
+3- Validação do marge
 
 
